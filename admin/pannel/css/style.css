@@ -121,7 +121,7 @@ img.svg{
     position: absolute;
     height: 50%;
     width: 100%;
-    background-color: #041230;
+    background-color: #2f7b35;
 	
     -webkit-transition: .7s all ease;
     -o-transition: .7s all ease;
@@ -148,7 +148,7 @@ img.svg{
 	top: 0px;
 	bottom: 0px;
 	left: 0px;
-	background-color: #041230;
+	background-color: #2f7b35;
 	z-index: 100;
 	
 	-webkit-transition: all .3s ease;
@@ -161,7 +161,7 @@ img.svg{
 .arlo_tm_leftpart_wrap.hide{left: -300px;}
 .arlo_tm_leftpart_wrap.opened{left: -300px;}
 .arlo_tm_leftpart_wrap .logo_wrap{
-	background-color: #041230;
+	background-color: #2f7b35;
 	padding: 50px 20px;
 	width: 100%;
 	float: left;
@@ -571,7 +571,7 @@ img.svg{
 .arlo_tm_main_title_holder h3{
 	font-weight: 900;
 	font-family: "Montserrat";
-	color: #041230;
+	color: #2f7b35;
 	font-size: 30px;
 	line-height: 1;
 }
@@ -581,7 +581,7 @@ img.svg{
 	content: "";
 	width: 50px;
 	height: 4px;
-	background-color: #041230;
+	background-color: #2f7b35;
 	letter-spacing: 0px;
 	bottom: -10px;
 }
@@ -616,7 +616,7 @@ img.svg{
 .arlo_tm_main_title_holder h3{
 	font-weight: 900;
 	font-family: "Montserrat";
-	color: #041230;
+	color: #2f7b35;
 	font-size: 30px;
 	line-height: 1;
 }
@@ -626,7 +626,7 @@ img.svg{
 	content: "";
 	width: 50px;
 	height: 4px;
-	background-color: #041230;
+	background-color: #2f7b35;
 	letter-spacing: 0px;
 	bottom: -10px;
 }
@@ -688,7 +688,7 @@ img.svg{
 	bottom: -25px !important;
 	left: 25px !important;
 	right: -25px !important;
-	border: 10px solid #041230;
+	border: 10px solid #2f7b35;
 }
 .arlo_tm_about_wrap .leftbox .about_image_wrap img{opacity: 0;}
 .arlo_tm_about_wrap .rightbox{
@@ -799,7 +799,7 @@ img.svg{
     height: 100%;
     left: -25%;
     width: 0%;
-    background-color: #041230;
+    background-color: #2f7b35;
     transform: skew(50deg);
     transition-duration: .6s;
     z-index: 1;
@@ -1502,7 +1502,7 @@ img.svg{
 }
 .arlo_tm_news_wrap .title_holder h3 a{
 	text-decoration: none;
-	color: #041230;
+	color: #2f7b35;
 	font-size: 22px;
 	display: block;
 	
@@ -1534,7 +1534,7 @@ img.svg{
     height: 100%;
     left: -25%;
     width: 0%;
-    background-color: #041230;
+    background-color: #2f7b35;
     transform: skew(50deg);
     transition-duration: .6s;
     z-index: 1;
@@ -1873,7 +1873,7 @@ img.svg{
     height: 100%;
     left: -25%;
     width: 0%;
-    background-color: #041230;
+    background-color: #2f7b35;
     transform: skew(50deg);
     transition-duration: .6s;
     z-index: 1;
@@ -1905,7 +1905,7 @@ img.svg{
 	clear: both;
 	float: left;
 	text-align: left;
-	background-color: #041230;
+	background-color: #2f7b35;
 	padding: 50px 0px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1954,7 +1954,7 @@ img.svg{
     height: 100%;
     left: -75%;
     width: 0%;
-    background-color: #041230;
+    background-color: #2f7b35;
     transform: skew(50deg);
     transition-duration: .6s;
     z-index: 1;
@@ -2174,7 +2174,7 @@ img.svg{
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	background-color: #041230;
+	background-color: #2f7b35;
 	border-bottom: 1px solid rgba(255,255,255,.1);
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */

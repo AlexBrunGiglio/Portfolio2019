@@ -35,7 +35,7 @@ if (isset($_POST["username"]) && isset($_POST["pass"])) {
 	if ($result != 0) {
 		$_SESSION['id'] = $result['id'];
 		$_SESSION['pseudo'] = $result['pseudo'];
-		header('Location :https://alexandrebrungiglio.fr');
+		header('Location :https://admin.alexandrebrungiglio.fr');
 	} else {
 		$error_compt = "Votre pseudo et/ou mot de passe ne correspondent pas.";
 	}
