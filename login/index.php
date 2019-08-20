@@ -4,7 +4,7 @@ session_start();
 ini_set("error_reporting", E_ALL);
 ini_set('display_errors', 1);
 
-$opt = parse_ini_file("../db.ini");
+$opt = parse_ini_file("db.ini");
 try {
 	$DB = new PDO($opt["host"], $opt["user"], $opt["pass"]);
 } catch (Exception $e) { }
@@ -35,7 +35,7 @@ if (isset($_POST["username"]) && isset($_POST["pass"])) {
 	if ($result != 0) {
 		$_SESSION['id'] = $result['id'];
 		$_SESSION['pseudo'] = $result['pseudo'];
-		header('Location :../admabg/index.php');
+		header('Location :https://alexandrebrungiglio.fr');
 	} else {
 		$error_compt = "Votre pseudo et/ou mot de passe ne correspondent pas.";
 	}
